@@ -1,0 +1,3 @@
+# dubboDemoProject
+dubbo练习的demo案例
+其中common是抽取了公共的pojo类和接口，而provider是生产者，consumer是消费者
